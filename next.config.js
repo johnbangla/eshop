@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-      "BASE_URL": "http://localhost:3000",
+      "BASE_URL": "/",
       "MONGODB_URL_local": "mongodb://localhost/jsofteshop",
       "MONGODB_URL": "mongodb+srv://johnbangla:Dev_1234@cluster0.duyhv.mongodb.net/eshopdb?retryWrites=true&w=majority",
       "ACCESS_TOKEN_SECRET": "121212",
